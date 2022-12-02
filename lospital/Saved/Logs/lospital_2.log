@@ -1,0 +1,1538 @@
+﻿Log file open, 12/02/22 15:38:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: lospital
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.305117
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Engine.ini]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Engine.ini]
+[2022.12.02-20.38.43:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Engine.ini]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Engine.ini]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.02-20.38.43:097][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.02-20.38.43:098][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.02-20.38.43:098][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.02-20.38.43:098][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.02-20.38.43:098][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.02-20.38.43:098][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.02-20.38.43:098][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.02-20.38.43:098][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.02-20.38.43:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Engine.ini]
+[2022.12.02-20.38.43:098][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Engine.ini]
+[2022.12.02-20.38.43:117][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.02-20.38.43:117][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.02-20.38.43:118][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.02-20.38.43:118][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.02-20.38.43:118][  0]LogHAL: Display: Platform has ~ 16 GB [17002713088 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.02-20.38.43:118][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.02-20.38.43:118][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.02-20.38.43:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.02-20.38.43:119][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.02-20.38.43:120][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.02-20.38.43:120][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.02-20.38.43:120][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.02-20.38.43:120][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Engine.ini]
+[2022.12.02-20.38.43:120][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Config/Windows/Editor.ini]
+[2022.12.02-20.38.43:120][  0]LogInit: Computer: LAPTOP-CT59QV1H
+[2022.12.02-20.38.43:120][  0]LogInit: User: mikay
+[2022.12.02-20.38.43:120][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.12.02-20.38.43:120][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.02-20.38.43:120][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.12.02-20.38.43:120][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.02-20.38.43:120][  0]LogMemory: Process Physical Memory: 144.92 MB used, 144.92 MB peak
+[2022.12.02-20.38.43:120][  0]LogMemory: Process Virtual Memory: 131.58 MB used, 131.58 MB peak
+[2022.12.02-20.38.43:120][  0]LogMemory: Physical Memory: 12096.47 MB used,  4118.58 MB free, 16215.05 MB total
+[2022.12.02-20.38.43:120][  0]LogMemory: Virtual Memory: 134204224.00 MB used,  13507.07 MB free, 134217728.00 MB total
+[2022.12.02-20.38.43:126][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.02-20.38.43:183][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.02-20.38.43:184][  0]LogInit: Using OS detected language (en-US).
+[2022.12.02-20.38.43:184][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.02-20.38.43:192][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.12.02-20.38.43:555][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.02-20.38.43:584][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.38.43:638][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.02-20.38.43:638][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.02-20.38.46:492][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.02-20.38.46:510][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.02-20.38.46:510][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.02-20.38.46:510][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.02-20.38.46:510][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.02-20.38.46:641][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.12.02-20.38.46:641][  0]LogD3D11RHI:       5980/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.12.02-20.38.46:720][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.12.02-20.38.46:720][  0]LogD3D11RHI:       128/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:       0/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     SubSysId    : 14421025
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     SharedSystemMemory : 8501356544 bytes
+[2022.12.02-20.38.46:724][  0]LogD3D11RHI:     AdapterLuid : 0 80810
+[2022.12.02-20.38.46:731][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.02-20.38.46:731][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.02-20.38.46:731][  0]LogWindows: EnumDisplayDevices:
+[2022.12.02-20.38.46:731][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.12.02-20.38.46:731][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.02-20.38.46:731][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.02-20.38.46:731][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2022.12.02-20.38.46:731][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.12.02-20.38.46:732][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.12.02-20.38.46:732][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.12.02-20.38.46:732][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:   Driver Version: 512.77 (internal:30.0.15.1277, unified:512.77)
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:      Driver Date: 5-4-2022
+[2022.12.02-20.38.46:732][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     SubSysId    : 14421025
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     SharedSystemMemory : 8501356544 bytes
+[2022.12.02-20.38.46:732][  0]LogD3D11RHI:     AdapterLuid : 0 80810
+[2022.12.02-20.38.46:803][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.02-20.38.46:804][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.02-20.38.46:804][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.02-20.38.46:836][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.12.02-20.38.46:886][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.02-20.38.47:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.02-20.38.47:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.02-20.38.47:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.02-20.38.47:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.02-20.38.47:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.02-20.38.47:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.02-20.38.47:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.02-20.38.47:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.02-20.38.47:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.02-20.38.47:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.02-20.38.47:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.02-20.38.47:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.02-20.38.47:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.02-20.38.47:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.02-20.38.47:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.02-20.38.47:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.02-20.38.47:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.02-20.38.47:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.02-20.38.47:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.02-20.38.47:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.02-20.38.47:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.02-20.38.47:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.02-20.38.47:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.02-20.38.47:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.02-20.38.47:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.02-20.38.47:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.02-20.38.47:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.02-20.38.47:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.02-20.38.47:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.02-20.38.47:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.02-20.38.47:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.02-20.38.47:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.02-20.38.47:455][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.02-20.38.47:465][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.02-20.38.47:502][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.02-20.38.47:537][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.02-20.38.47:537][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Intermediate/Shaders/WorkingDirectory/17932/).
+[2022.12.02-20.38.47:537][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mikay/AppData/Local/Temp/UnrealShaderWorkingDir/CEE85E3D414D419076866F8B0481B400/'.
+[2022.12.02-20.38.47:537][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.02-20.38.47:537][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.02-20.38.47:537][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.02-20.38.50:821][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.02-20.38.50:917][  0]LogDerivedDataCache: Loaded boot cache 0.10s 94MB C:/Users/mikay/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.02-20.38.50:917][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mikay/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.02-20.38.50:917][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.02-20.38.50:917][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.02-20.38.50:917][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.02-20.38.50:917][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.02-20.38.50:945][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.02-20.38.50:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.02-20.38.50:945][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.02-20.38.50:964][  0]LogDerivedDataCache: Speed tests for C:/Users/mikay/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.12.02-20.38.50:964][  0]LogDerivedDataCache: Display: Performance to C:/Users/mikay/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=113.16MBs, RandomWriteSpeed=112.28MBs. Assigned SpeedClass 'Local'
+[2022.12.02-20.38.50:965][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mikay/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.02-20.38.50:965][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.02-20.38.50:965][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.02-20.38.51:017][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.02-20.38.51:032][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.02-20.38.51:063][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2022.12.02-20.38.51:350][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.02-20.38.51:350][  0]LogInit: Active device profile: [0000022E6B982D00][0000022E6C7AAE40 49] Windows
+[2022.12.02-20.38.51:350][  0]LogInit: Profiles: [0000022E6B982D00][0000022E6C7AAE40 49] Windows, [0000022E6B8E1D00][0000022E6C456FC0 49] WindowsNoEditor, [0000022E6B983C00][0000022E6C45B140 49] WindowsServer, [0000022E6B8E2A00][0000022E6CFA92C0 49] WindowsClient, [0000022E6B981800][0000022E6CFAD440 49] IOS, [0000022E6B8E1300][0000022E6CFB15C0 49] iPadAir, [0000022E6B982500][0000022E6C453740 49] iPadAir2, [0000022E6B88D300][0000022E6CFC1A00 49] IPadPro, [0000022E6B88D400][0000022E6C44FA40 49] iPadAir3, [0000022E6B8E3A00][0000022E6CFC5BC0 49] iPadAir4, [0000022E6B88E100][0000022E6CFC81C0 49] iPadMini2, [0000022E6B8E2F00][0000022E6CFCC340 49] iPadMini3, [0000022E6B88EC00][0000022E6D3CC4C0 49] iPadMini4, [0000022E6B8E1E00][0000022E67F34640 49] iPadMini5, [0000022E6B8A4C00][0000022E67F44900 49] iPhone6, [0000022E6B8A4D00][0000022E67F38940 49] iPodTouch6, [0000022E6B981B00][0000022E67F48B80 49] iPhone7, [0000022E6B981A00][0000022E6C44ABC0 49] iPodTouch7, [0000022E6B88D100][0000022E67F4CD00 49] iPhone5S, [0000022E6B981500][0000022E67F54E80 49] iPhone6Plus, [0000022E6B8A4100][0000022E67F59000 49] iPhone6S, [0000022E6B88C800][0000022E67F5D180 49] iPhone6SPlus, [0000022E6B8A7E00][0000022E67F61300 49] iPhone7Plus, [0000022E6B88CF00][0000022E67F65480 49] iPhoneSE, [0000022E6B8A7800][0000022E67F69600 49] iPhone8, [0000022E6B88F600][0000022E6930B780 49] iPhone8Plus, [0000022E6B8A6400][0000022E6930F900 49] iPhoneX, [0000022E6B88D900][0000022E69313A80 49] iPhoneXS, [0000022E6B8A6F00][0000022E69317C00 49] iPhoneXSMax, [0000022E6B980300][0000022E6931A200 49] iPhoneXR, [0000022E6B8A5100][0000022E6931E380 49] iPhone11, [0000022E6B981200][0000022E69322500 49] iPhone11Pro, [0000022E6B8A7A00][0000022E69326680 49] iPhone11ProMax, [0000022E6B982C00][0000022E6932A800 49] iPhoneSE2, [0000022E6B8A5600][0000022E6932E980 49] iPhone12Mini, [0000022E6B983400][0000022E69332B00 49] iPhone12, [0000022E6B8A7600][0000022E67F50C40 49] iPhone12Pro, [0000022E6B980700][0000022E69336D80 49] iPhone12ProMax, [0000022E6B8A6100][0000022E6CF10EC0 49] iPadPro105, [0000022E6B982A00][0000022E6CF19040 49] iPadPro129, [0000022E6B8A5400][0000022E6CF1D1C0 49] iPadPro97, [0000022E6B982000][0000022E6CF21340 49] iPadPro2_129, [0000022E6B8A4500][0000022E6CF254C0 49] iPad5, [0000022E6B982F00][0000022E6CF29640 49] iPad6, [0000022E6B8A7000][0000022E6CF2D7C0 49] iPad7, [0000022E6B981E00][0000022E6CF31940 49] iPad8, [0000022E6B8A7300][0000022E6CF35AC0 49] iPadPro11, [0000022E6B980A00][0000022E6CF380C0 49] iPadPro2_11, [0000022E6B8A4B00][0000022E6CF3C240 49] iPadPro3_129, [0000022E6B980F00][0000022E6CF403C0 49] iPadPro4_129, [0000022E6B8A5D00][0000022E6CF44540 49] AppleTV, [0000022E6B983600][0000022E6CF486C0 49] AppleTV4K, [0000022E6B8A5F00][0000022E5EDEC840 49] TVOS, [0000022E6B980400][0000022E5EDF09C0 49] Mac, [0000022E6B8A6500][0000022E5EDF4B40 49] MacClient, [0000022E6B980200][0000022E5EDF8CC0 49] MacNoEditor, [0000022E6B8A4E00][0000022E6CF14E00 49] MacServer, [0000022E6B982B00][0000022E5EDFCF40 49] Linux, [0000022E6B8A6300][0000022E5EE01080 49] LinuxAArch64, [0000022E6B981C00][0000022E5EE051C0 49] LinuxNoEditor, [0000022E6B8A4700][0000022E5EE0D340 49] LinuxAArch64NoEditor, [0000022E6B981600][0000022E5EE114C0 49] LinuxClient, [0000022E6B8A4900][0000022E5EE15640 49] LinuxAArch64Client, [0000022E6B982200][0000022E5EE197C0 49] LinuxServer, [0000022E6B8A7400][0000022E5EE1D940 49] LinuxAArch64Server, [0000022E6B983900][0000022E5EE21AC0 49] Android, [0000022E6B8A6B00][0000022E5EE240C0 49] Android_Low, [0000022E6B981400][0000022E5EE28240 49] Android_Mid, [0000022E6B8A6600][0000022E5EE2C3C0 49] Android_High, [0000022E6B980B00][0000022E5EE30540 49] Android_Default, [0000022E6B8A6D00][0000022E5EE346C0 49] Android_Adreno4xx, [0000022E6B980600][0000022E5EE38840 49] Android_Adreno5xx_Low, [0000022E6B8A6E00][0000022E5EE3C9C0 49] Android_Adreno5xx, [0000022E6B983500][0000022E5EE40B40 49] Android_Adreno6xx, [0000022E6B8A5E00][0000022E5EE44CC0 49] Android_Adreno6xx_Vulkan, [0000022E6B8E3D00][0000022E5EE48E40 49] Android_Mali_T6xx, [0000022E6B88D800][0000022E5EE08F80 49] Android_Mali_T7xx, [0000022E6B8E3C00][0000022E5EE4D0C0 49] Android_Mali_T8xx, [0000022E6B88DA00][0000022E5EE51200 49] Android_Mali_G71, [0000022E6B8E2000][0000022E5EE55340 49] Android_Mali_G72, [0000022E6B88FB00][0000022E6CE1F4C0 49] Android_Mali_G72_Vulkan, [0000022E6B8E1A00][0000022E6CE23640 49] Android_Mali_G76, [0000022E6B88C500][0000022E6CE277C0 49] Android_Mali_G76_Vulkan, [0000022E6B8E0600][0000022E6CE2B940 49] Android_Mali_G77, [0000022E6B88F700][0000022E6CE2FAC0 49] Android_Mali_G77_Vulkan, [0000022E6B8E0200][0000022E6CE320C0 49] Android_Mali_G78, [0000022E6B88F400][0000022E6CE36240 49] Android_Mali_G78_Vulkan, [0000022E6B8E2D00][0000022E6CE3A3C0 49] Android_Mali_G710, [0000022E6B88EF00][0000022E6CE3E540 49] Android_Mali_G710_Vulkan, [0000022E6B8E3400][0000022E6CE426C0 49] Android_Vulkan_SM5, [0000022E6B88CE00][0000022E6CE46840 49] Android_PowerVR_G6xxx, [0000022E6B8E2600][0000022E6CE4A9C0 49] Android_PowerVR_GT7xxx, [0000022E6B88C200][0000022E6CE4EB40 49] Android_PowerVR_GE8xxx, [0000022E6B8E1600][0000022E6CE52CC0 49] Android_PowerVR_GM9xxx, [0000022E6B88DE00][0000022E6CE56E40 49] Android_PowerVR_GM9xxx_Vulkan, [0000022E6B8E3700][0000022E6CE5AFC0 49] Android_TegraK1, [0000022E6B88E000][0000022E6CE5F140 49] Android_Unknown_Vulkan, [0000022E6B8E0C00][0000022E6CE1B280 49] Lumin, [0000022E6B88C600][0000022E6CE633C0 49] Lumin_Desktop, [0000022E6B8A7100][0000022E6CE67500 49] HoloLens, 
+[2022.12.02-20.38.51:589][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.02-20.38.51:589][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.02-20.38.51:589][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.02-20.38.51:589][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.02-20.38.51:589][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.02-20.38.51:631][  0]LogNetVersion: lospital 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3745021636)
+[2022.12.02-20.38.52:772][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.02-20.38.52:894][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.02-20.38.52:900][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.02-20.38.52:900][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.02-20.38.52:900][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.02-20.38.53:471][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7476EDFA43FD05675A51289FAD1852A8 | Instance: 95B55B314D94BC5272BDE4BB6EA43DB6 (LAPTOP-CT59QV1H-17932).
+[2022.12.02-20.38.53:520][  0]LogPython: Using Python 3.7.7
+[2022.12.02-20.38.54:499][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.02-20.38.54:505][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.02-20.38.54:865][  0]SourceControl: Source control is disabled
+[2022.12.02-20.38.54:865][  0]SourceControl: Source control is disabled
+[2022.12.02-20.38.54:876][  0]SourceControl: Source control is disabled
+[2022.12.02-20.38.55:442][  0]LogUProjectInfo: Found projects:
+[2022.12.02-20.38.55:449][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-20.38.55:449][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-20.38.55:450][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-20.38.55:647][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.02-20.38.55:720][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.02-20.38.55:751][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.02-20.38.55:751][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.02-20.38.56:166][  0]LogCollectionManager: Loaded 0 collections in 0.001948 seconds
+[2022.12.02-20.38.56:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Collections/' took 0.00s
+[2022.12.02-20.38.56:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/Developers/mikay/Collections/' took 0.00s
+[2022.12.02-20.38.56:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/Collections/' took 0.00s
+[2022.12.02-20.38.56:211][  0]LogOcInput: OculusInput pre-init called
+[2022.12.02-20.38.56:584][  0]LogEngine: Initializing Engine...
+[2022.12.02-20.38.56:588][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.02-20.38.56:588][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.02-20.38.56:588][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.02-20.38.56:589][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.02-20.38.56:902][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.02-20.38.56:912][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.02-20.38.56:912][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.02-20.38.56:917][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.02-20.38.56:921][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.02-20.38.56:922][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.02-20.38.56:922][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.02-20.38.56:922][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-20.38.56:922][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-20.38.56:922][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-20.38.56:922][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-20.38.56:922][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-20.38.56:922][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-20.38.56:922][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-20.38.56:922][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-20.38.56:922][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-20.38.56:922][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-20.38.56:922][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-20.38.56:922][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-20.38.56:941][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-20.38.56:941][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-20.38.57:053][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.02-20.38.57:056][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-20.38.57:078][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-20.38.57:078][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-20.38.57:080][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-20.38.57:080][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-20.38.57:080][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-20.38.57:081][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-20.38.57:081][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-20.38.57:081][  0]LogInit: FAudioDevice initialized.
+[2022.12.02-20.38.57:082][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.02-20.38.57:082][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.02-20.38.57:131][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/mikay/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.02-20.38.57:132][  0]LogInit: Texture streaming: Enabled
+[2022.12.02-20.38.57:145][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.02-20.38.57:150][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.02-20.38.57:150][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.02-20.38.57:154][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.02-20.38.57:213][  0]LogInit: Transaction tracking system initialized
+[2022.12.02-20.38.57:241][  0]BlueprintLog: New page: Editor Load
+[2022.12.02-20.38.57:322][  0]LocalizationService: Localization service is disabled
+[2022.12.02-20.38.57:353][  0]TimingProfiler: Initialize
+[2022.12.02-20.38.57:353][  0]TimingProfiler: OnSessionChanged
+[2022.12.02-20.38.57:353][  0]LoadingProfiler: Initialize
+[2022.12.02-20.38.57:353][  0]LoadingProfiler: OnSessionChanged
+[2022.12.02-20.38.57:353][  0]NetworkingProfiler: Initialize
+[2022.12.02-20.38.57:353][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.02-20.38.57:353][  0]MemoryProfiler: Initialize
+[2022.12.02-20.38.57:353][  0]MemoryProfiler: OnSessionChanged
+[2022.12.02-20.38.57:435][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-20.38.57:436][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-20.38.57:436][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-20.38.57:830][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.02-20.38.57:830][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.02-20.38.57:918][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/' took 0.01s
+[2022.12.02-20.38.58:324][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.02-20.38.58:329][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.724
+[2022.12.02-20.38.58:380][  0]LogSlate: Took 0.007076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.02-20.38.58:601][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.38.58:612][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.02-20.38.58:612][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-20.38.58:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.38.58:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-20.38.58:616][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.12.02-20.38.58:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.12.02-20.38.58:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.12.02-20.38.58:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.12.02-20.38.58:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.12.02-20.38.58:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.12.02-20.38.58:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.12.02-20.38.58:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.12.02-20.38.58:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.12.02-20.38.58:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.12.02-20.38.58:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.12.02-20.38.58:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.12.02-20.38.58:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.12.02-20.38.58:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.12.02-20.38.58:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.12.02-20.38.58:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.12.02-20.38.58:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.12.02-20.38.58:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.12.02-20.38.58:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Fire01.uasset"
+[2022.12.02-20.38.58:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.12.02-20.38.58:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.12.02-20.38.58:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.12.02-20.38.58:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Light01.uasset"
+[2022.12.02-20.38.58:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.12.02-20.38.58:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Light02.uasset"
+[2022.12.02-20.38.58:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.12.02-20.38.58:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.12.02-20.38.58:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.12.02-20.38.58:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.12.02-20.38.58:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.12.02-20.38.58:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.12.02-20.38.58:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.12.02-20.38.58:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.12.02-20.38.58:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.12.02-20.38.58:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Steam01.uasset"
+[2022.12.02-20.38.58:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.12.02-20.38.58:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.12.02-20.38.58:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.12.02-20.38.58:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.12.02-20.38.58:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.12.02-20.38.58:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.12.02-20.38.58:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.12.02-20.38.58:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.12.02-20.38.58:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.12.02-20.38.58:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.12.02-20.38.58:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.12.02-20.38.58:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.12.02-20.38.58:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.12.02-20.38.58:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.12.02-20.38.58:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.12.02-20.38.58:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.12.02-20.38.59:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.12.02-20.38.59:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.12.02-20.38.59:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.12.02-20.38.59:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.12.02-20.38.59:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.12.02-20.38.59:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.12.02-20.38.59:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Maps/StarterMap.umap"
+[2022.12.02-20.38.59:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.12.02-20.38.59:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.12.02-20.38.59:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.12.02-20.38.59:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.12.02-20.38.59:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.12.02-20.38.59:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.12.02-20.38.59:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.12.02-20.38.59:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.12.02-20.38.59:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.12.02-20.38.59:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.12.02-20.38.59:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.12.02-20.38.59:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.12.02-20.38.59:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.12.02-20.38.59:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.12.02-20.38.59:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.12.02-20.38.59:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.12.02-20.38.59:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.12.02-20.38.59:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.12.02-20.38.59:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.12.02-20.38.59:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.12.02-20.38.59:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.12.02-20.38.59:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.12.02-20.38.59:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.12.02-20.38.59:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.12.02-20.38.59:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.12.02-20.38.59:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.12.02-20.38.59:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.12.02-20.38.59:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.12.02-20.38.59:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.12.02-20.38.59:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.12.02-20.38.59:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.12.02-20.38.59:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.12.02-20.38.59:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.12.02-20.38.59:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.12.02-20.38.59:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.12.02-20.38.59:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.12.02-20.38.59:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.12.02-20.38.59:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.12.02-20.38.59:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.12.02-20.38.59:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.12.02-20.38.59:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.12.02-20.38.59:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.12.02-20.38.59:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.12.02-20.38.59:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.12.02-20.38.59:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.12.02-20.38.59:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.12.02-20.38.59:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.12.02-20.38.59:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.12.02-20.38.59:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.12.02-20.38.59:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.12.02-20.38.59:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.12.02-20.38.59:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.12.02-20.38.59:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.12.02-20.38.59:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.12.02-20.38.59:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.12.02-20.38.59:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.12.02-20.38.59:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.12.02-20.38.59:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.12.02-20.38.59:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.12.02-20.38.59:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.12.02-20.38.59:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.12.02-20.38.59:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.12.02-20.38.59:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.12.02-20.38.59:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.12.02-20.38.59:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.12.02-20.38.59:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Door.uasset"
+[2022.12.02-20.38.59:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.12.02-20.38.59:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.12.02-20.38.59:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.12.02-20.38.59:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.12.02-20.38.59:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.12.02-20.38.59:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.12.02-20.38.59:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.12.02-20.38.59:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.12.02-20.38.59:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.12.02-20.38.59:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.12.02-20.38.59:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.12.02-20.38.59:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.12.02-20.38.59:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.12.02-20.38.59:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.12.02-20.38.59:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.12.02-20.38.59:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.12.02-20.38.59:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.12.02-20.38.59:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.12.02-20.38.59:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.12.02-20.38.59:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.12.02-20.38.59:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.12.02-20.38.59:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.12.02-20.38.59:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.12.02-20.38.59:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.12.02-20.38.59:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.12.02-20.38.59:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.12.02-20.38.59:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.12.02-20.38.59:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.12.02-20.38.59:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.12.02-20.38.59:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.12.02-20.38.59:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.12.02-20.38.59:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.12.02-20.38.59:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.12.02-20.38.59:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.12.02-20.38.59:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.12.02-20.38.59:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.12.02-20.38.59:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.12.02-20.38.59:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.12.02-20.38.59:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.12.02-20.38.59:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.12.02-20.38.59:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.12.02-20.38.59:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.12.02-20.38.59:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.12.02-20.38.59:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.12.02-20.38.59:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.12.02-20.38.59:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.12.02-20.38.59:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.12.02-20.38.59:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.12.02-20.39.00:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.12.02-20.39.00:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.12.02-20.39.00:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.12.02-20.39.00:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.12.02-20.39.00:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.12.02-20.39.00:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.12.02-20.39.00:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.12.02-20.39.00:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.12.02-20.39.00:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.12.02-20.39.00:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.12.02-20.39.00:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.12.02-20.39.00:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.12.02-20.39.00:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.12.02-20.39.00:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.12.02-20.39.00:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.12.02-20.39.00:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.12.02-20.39.00:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.12.02-20.39.00:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.12.02-20.39.00:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.12.02-20.39.00:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.12.02-20.39.00:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.12.02-20.39.00:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.12.02-20.39.00:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.12.02-20.39.00:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.12.02-20.39.00:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.12.02-20.39.00:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.12.02-20.39.00:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.12.02-20.39.00:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.12.02-20.39.00:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.12.02-20.39.00:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.12.02-20.39.00:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.12.02-20.39.00:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.12.02-20.39.00:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.12.02-20.39.00:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.12.02-20.39.00:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.12.02-20.39.00:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.12.02-20.39.00:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.12.02-20.39.00:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.12.02-20.39.00:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.12.02-20.39.00:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.12.02-20.39.00:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.12.02-20.39.00:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.12.02-20.39.00:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.12.02-20.39.00:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.12.02-20.39.00:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.12.02-20.39.00:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.12.02-20.39.00:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.12.02-20.39.00:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.12.02-20.39.00:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.12.02-20.39.00:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.12.02-20.39.00:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.12.02-20.39.00:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.12.02-20.39.00:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.12.02-20.39.00:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.12.02-20.39.00:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.12.02-20.39.00:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.12.02-20.39.01:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.12.02-20.39.01:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.12.02-20.39.01:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.12.02-20.39.01:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.12.02-20.39.01:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.12.02-20.39.01:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.12.02-20.39.01:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.12.02-20.39.01:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.12.02-20.39.01:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.12.02-20.39.01:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.12.02-20.39.01:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.12.02-20.39.01:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.12.02-20.39.01:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.12.02-20.39.01:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.12.02-20.39.01:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.12.02-20.39.01:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.12.02-20.39.01:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.12.02-20.39.01:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.12.02-20.39.01:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.12.02-20.39.01:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.12.02-20.39.01:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.12.02-20.39.01:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.12.02-20.39.01:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.12.02-20.39.01:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.12.02-20.39.01:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.12.02-20.39.01:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.12.02-20.39.01:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.12.02-20.39.01:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.12.02-20.39.01:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.12.02-20.39.01:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.12.02-20.39.01:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.12.02-20.39.01:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.12.02-20.39.01:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.12.02-20.39.01:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.12.02-20.39.01:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.12.02-20.39.01:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.12.02-20.39.01:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.12.02-20.39.01:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.12.02-20.39.01:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.12.02-20.39.01:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.12.02-20.39.01:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.12.02-20.39.01:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.12.02-20.39.01:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.12.02-20.39.01:776][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.01:855][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.01:875][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.01:957][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.01:972][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:065][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:081][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:172][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:187][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:269][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:291][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:383][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:411][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:544][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:564][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:680][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:702][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:808][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:824][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:906][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.02:923][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:015][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:033][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:126][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:138][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:219][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:234][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:316][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:330][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:410][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:428][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:509][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:527][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:619][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:637][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:729][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:750][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:830][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:852][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:945][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.03:957][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:037][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:054][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:145][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:157][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:237][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:249][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:341][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:360][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:451][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:471][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:551][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:567][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:660][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:677][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:757][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:775][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:879][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.04:893][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:038][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:053][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:133][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:151][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:243][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:262][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:352][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:374][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:465][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:475][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:556][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:574][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:654][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:670][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:750][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:767][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:837][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:851][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:930][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.05:949][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:029][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:045][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:125][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:146][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:237][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:254][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:334][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:352][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:433][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:449][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:531][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:546][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:636][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:650][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.06:741][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.37:114][  0]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.39:280][  0]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.40:782][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.12.02-20.39.40:883][  0]LogSavePackage: Moving '../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Saved/Floor_400x4009104A19144F7DB5D790177877833B450.tmp' to '../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.12.02-20.39.40:885][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.12.02-20.39.40:887][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mikay/Documents/GitHub/GROUP2FOREVER/lospital/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.02-20.39.40:889][  0]LightingResults: New page: Lighting Build
+[2022.12.02-20.39.40:896][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-20.39.40:899][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-20.39.40:902][  0]MapCheck: New page: Map Check
+[2022.12.02-20.39.40:902][  0]LightingResults: New page: Lighting Build
+[2022.12.02-20.39.40:914][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-20.39.40:932][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.02-20.39.41:618][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.12.02-20.39.41:619][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.02-20.39.41:661][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.02-20.39.41:674][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.02-20.39.41:676][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.02-20.39.41:676][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2022.12.02-20.39.41:676][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.789
+[2022.12.02-20.39.41:713][  0]LogUnrealEdMisc: Total Editor Startup Time, took 61.108
+[2022.12.02-20.39.41:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-20.39.41:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-20.39.42:012][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-20.39.42:027][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-20.39.42:093][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0192 seconds. Added 3822 classes and 928 folders.
+[2022.12.02-20.39.42:103][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.02-20.39.42:123][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.02-20.39.42:123][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:123][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-20.39.42:124][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:124][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.02-20.39.42:124][  0]LogPakFile: OnPakFileMounted2Time == 0.001031
+[2022.12.02-20.39.42:138][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.02-20.39.42:138][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:138][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.02-20.39.42:138][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.02-20.39.42:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000364
+[2022.12.02-20.39.42:147][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.02-20.39.42:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.02-20.39.42:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.02-20.39.42:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.12.02-20.39.42:149][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-20.39.42:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-20.39.42:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.02-20.39.42:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.12.02-20.39.42:159][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.02-20.39.42:160][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.02-20.39.42:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.02-20.39.42:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.12.02-20.39.42:169][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.02-20.39.42:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.02-20.39.42:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.02-20.39.42:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.12.02-20.39.42:177][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.02-20.39.42:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.02-20.39.42:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.02-20.39.42:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.12.02-20.39.42:186][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.02-20.39.42:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.02-20.39.42:186][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:186][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.02-20.39.42:186][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.12.02-20.39.42:195][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.02-20.39.42:196][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:196][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.02-20.39.42:196][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:196][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.02-20.39.42:196][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.12.02-20.39.42:205][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.02-20.39.42:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.02-20.39.42:205][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:205][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.02-20.39.42:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.12.02-20.39.42:212][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.02-20.39.42:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.02-20.39.42:212][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:212][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.02-20.39.42:213][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.12.02-20.39.42:222][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.02-20.39.42:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.02-20.39.42:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.02-20.39.42:222][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.12.02-20.39.42:231][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-20.39.42:231][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:231][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.02-20.39.42:231][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:231][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.02-20.39.42:231][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.12.02-20.39.42:238][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.02-20.39.42:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.02-20.39.42:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:238][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.02-20.39.42:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.12.02-20.39.42:245][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.02-20.39.42:245][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.02-20.39.42:245][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:245][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.02-20.39.42:245][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.12.02-20.39.42:253][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.02-20.39.42:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-20.39.42:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.02-20.39.42:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.12.02-20.39.42:261][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.02-20.39.42:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.02-20.39.42:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.02-20.39.42:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.12.02-20.39.42:271][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.02-20.39.42:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.02-20.39.42:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.02-20.39.42:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.12.02-20.39.42:281][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-20.39.42:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.02-20.39.42:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.02-20.39.42:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.12.02-20.39.42:297][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-20.39.42:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.02-20.39.42:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.02-20.39.42:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.12.02-20.39.42:307][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.02-20.39.42:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-20.39.42:307][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:307][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.02-20.39.42:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.12.02-20.39.42:317][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.02-20.39.42:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.02-20.39.42:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.02-20.39.42:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.12.02-20.39.42:327][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.02-20.39.42:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.02-20.39.42:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.02-20.39.42:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.12.02-20.39.42:337][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.02-20.39.42:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.02-20.39.42:337][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:337][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.02-20.39.42:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.12.02-20.39.42:347][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-20.39.42:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.02-20.39.42:347][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:347][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.02-20.39.42:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.12.02-20.39.42:357][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.02-20.39.42:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-20.39.42:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.02-20.39.42:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-20.39.42:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.02-20.39.42:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.12.02-20.39.42:594][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.02-20.39.42:766][  0]LogSlate: Took 0.006530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.02-20.39.42:775][  0]LogSlate: Took 0.004732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.02-20.39.42:871][  0]LogRenderer: Reallocating scene render targets to support 912x424 Format 10 NumSamples 1 (Frame:1).
+[2022.12.02-20.39.42:926][  0]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-20.39.42:987][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.02-20.39.42:987][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.12.02-20.39.42:987][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.12.02-20.39.42:987][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.12.02-20.39.42:987][  0]LogLoad: (Engine Initialization) Total time: 62.38 seconds
+[2022.12.02-20.39.42:987][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.02-20.39.43:022][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.12.02-20.39.43:022][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.12.02-20.39.43:061][  0]LogAssetRegistry: Asset discovery search completed in 51.9988 seconds
+[2022.12.02-20.39.43:097][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.12.02-20.39.43:156][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.02-20.39.44:863][  6]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.45:874][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.47:087][ 10]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-20.39.47:618][ 13]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.48:119][ 14]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.48:619][ 14]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.49:121][ 14]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.49:734][ 14]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.53:558][ 14]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.12.02-20.39.53:668][ 14]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.12.02-20.39.53:693][ 14]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.12.02-20.39.55:650][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2022.12.02-20.39.58:338][ 27]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.58:840][ 28]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.39.59:341][ 28]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.00:342][ 29]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.00:843][ 30]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.02:478][ 31]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.03:039][ 31]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.04:079][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.02-20.40.04:647][ 35]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.05:149][ 35]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.05:649][ 35]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.06:150][ 35]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.06:786][ 35]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.11:147][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.11:651][ 45]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.12:151][ 45]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.12:650][ 45]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.13:235][ 46]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.13:737][ 47]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.15:333][ 48]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.17:486][ 50]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.21:173][ 53]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2022.12.02-20.40.23:376][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2022.12.02-20.40.24:013][ 59]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.24:517][ 60]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.25:015][ 60]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.25:517][ 60]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.26:058][ 62]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.26:564][ 63]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.28:131][ 64]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.28:631][ 65]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.29:132][ 67]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.12.02-20.40.29:632][ 68]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.12.02-20.40.29:632][ 68]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.12.02-20.40.30:132][ 69]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.12.02-20.40.30:132][ 69]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.12.02-20.40.30:633][ 70]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.12.02-20.40.31:133][ 71]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.12.02-20.40.31:133][ 71]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.12.02-20.40.32:636][ 77]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.33:139][ 78]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.33:640][ 78]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.34:140][ 78]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.34:773][ 80]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.35:278][ 81]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.36:885][ 82]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.12.02-20.40.36:885][ 82]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Bump_StaticMesh)
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: Present Fail Count 1
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:574][ 86]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: Present Fail Count 1
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000B0BEC
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:587][ 86]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:637][ 89]LogRHI: Error: Present Fail Count 2
+[2022.12.02-20.40.38:637][ 89]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:637][ 89]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:637][ 89]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:637][ 89]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:637][ 89]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:637][ 89]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:638][ 89]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: Present Fail Count 3
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:687][ 92]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: Present Fail Count 4
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:737][ 95]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:787][ 98]LogRHI: Error: Present Fail Count 5
+[2022.12.02-20.40.38:787][ 98]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:787][ 98]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:787][ 98]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:787][ 98]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:787][ 98]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:788][ 98]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:839][101]LogRHI: Error: Present Fail Count 6
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:839][101]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:888][104]LogRHI: Error: Present Fail Count 7
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:888][104]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:939][107]LogRHI: Error: Present Fail Count 8
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:939][107]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.38:988][110]LogRHI: Error: Present Fail Count 9
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.38:988][110]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.39:049][113]LogRHI: Error: Present Fail Count 10
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SyncInterval 0
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferDesc.Width 402
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferDesc.Height 915
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090C60
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-20.40.39:050][113]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-20.40.39:053][113]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:298 
+ with error DXGI_ERROR_DEVICE_REMOVED, 
+ (Size=146x44 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)) -> (Size=285x46 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018))
+[2022.12.02-20.40.39:053][113]LogD3D11RHI: [Aftermath] GDynamicRHI=0000022E4DC23600, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.12.02-20.40.39:053][113]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.02-20.40.39:053][113]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.12.02-20.40.40:828][113]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.12.02-20.40.40:828][113]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.12.02-20.40.40:828][113]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.12.02-20.40.40:830][113]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.12.02-20.40.40:830][113]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.12.02-20.40.40:830][113]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.12.02-20.40.40:840][113]Log file closed, 12/02/22 15:40:40
