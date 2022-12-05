@@ -1,0 +1,7 @@
+
+*.log
+*.ini
+lospital/Saved/Config/Windows/Engine.ini
+lospital/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.bin
+lospital/Saved/AutoScreenshot.png
