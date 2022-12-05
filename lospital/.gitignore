@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+*.log
+*.bin
+lospital/Saved/AutoScreenshot.png
+lospital/Saved/Config/Windows/Engine.ini
+lospital/Saved/Config/Windows/EditorPerProjectUserSettings.ini
