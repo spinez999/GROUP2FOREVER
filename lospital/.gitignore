@@ -75,6 +75,8 @@ DerivedDataCache/*
 
 *.log
 *.bin
+lospital/Intermediate/CachedAssetRegistry.bin
+lospital/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+lospital/Saved/Logs/lospital.log
 lospital/Saved/AutoScreenshot.png
 lospital/Saved/Config/Windows/Engine.ini
-lospital/Saved/Config/Windows/EditorPerProjectUserSettings.ini
